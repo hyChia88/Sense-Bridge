@@ -1,0 +1,25 @@
+# Rhino
+newmtl material0000
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 2.5500
+map_Kd textured_material0000_map_Kd.jpg
+newmtl material0001
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 2.5500
+map_Kd textured_material0001_map_Kd.jpg
+newmtl material0002
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 2.5500
+map_Kd textured_material0002_map_Kd.jpg
