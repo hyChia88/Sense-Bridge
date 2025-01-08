@@ -1,5 +1,6 @@
 # SenseBridge
-Author: Chia Hui Yen
+Author: Chia Hui Yen & Graham
+
 Date: 2024 fall
 
 ## Files Include
