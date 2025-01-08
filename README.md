@@ -2,7 +2,7 @@
 Author: Chia Hui Yen  
 Coordinator: Graham
 Mentor: Prof. Vernelle A. A. Noel, Ph.D. (vnoel@andrew.cmu.edu) ; TA: Stella Shen (chenyis@andrew.cmu.edu)  
-Date: 2024 fall
+Date: 2024 fall  
 
 ## Overview
 This project explores how non-verbal cues, captured through body motion, can bridge the gap between virtual and physical communication.  
