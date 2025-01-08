@@ -1,7 +1,7 @@
 # Sense-Bridge: Enhancing Hybrid Communication Through Motion-Aware Interaction
 Author: Chia Hui Yen  
 Coordinator: Graham
-Mentor: Prof. Vernelle A. A. Noel, Ph.D. (vnoel@andrew.cmu.edu) ; TA: Stella Shen (chenyis@andrew.cmu.edu)
+Mentor: Prof. Vernelle A. A. Noel, Ph.D. (vnoel@andrew.cmu.edu) ; TA: Stella Shen (chenyis@andrew.cmu.edu)  
 Date: 2024 fall
 
 ## Overview
