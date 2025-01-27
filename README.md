@@ -8,8 +8,9 @@
 SenseBridge is an innovative system that bridges the gap between virtual and physical communication by leveraging non-verbal cues and body motion data. The project explores how motion capture technology can create more authentic and immersive hybrid communication experiences.  
   
 ![image](https://github.com/user-attachments/assets/27945a0f-4b43-44f2-8190-538e7c34dd69)
+![1](https://github.com/user-attachments/assets/83e94adb-82f6-4333-8212-e8d0ad30c302)  
 
-![image](https://github.com/user-attachments/assets/3e3fd48e-b478-4eaf-abc6-3c831c3944a6)
+
 
 ## Features
 
