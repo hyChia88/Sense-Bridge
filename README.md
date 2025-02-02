@@ -4,7 +4,7 @@
 **Mentor:** Prof. Vernelle A. A. Noel, Ph.D. | 
 **Teaching Assistant:** Stella Shen
 
-# About the proejct
+## About the proejct
 SenseBridge is an innovative system that bridges the gap between virtual and physical communication by leveraging non-verbal cues and body motion data. The project explores how motion capture technology can create more authentic and immersive hybrid communication experiences.  
   
 ![image](https://github.com/user-attachments/assets/27945a0f-4b43-44f2-8190-538e7c34dd69)
@@ -15,6 +15,11 @@ SenseBridge is an innovative system that bridges the gap between virtual and phy
 ## Features
 
 ### 1. 3D Messenger & Virtual Sticky Notes
+<div style="display:flex">
+<img src="https://github.com/user-attachments/assets/1a5c5812-d65d-401e-920d-97360a1b8e0b" width=500>
+<img src="https://github.com/user-attachments/assets/dc73a715-fe81-497e-aa7b-73ef5a28d62d" width=500>
+</div>
+
 - Create and share virtual messages through air-drawn patterns
 - Location and pose-based message delivery
 - Kinect sensor integration for precise gesture tracking
@@ -27,6 +32,8 @@ SenseBridge is an innovative system that bridges the gap between virtual and phy
 - Privacy-conscious ambient awareness for remote connections
 
 ### 3. Video Call Enhancer
+![Sense1](https://github.com/user-attachments/assets/e0046357-42fd-4b71-9dce-bba205ed917d)  
+
 - Dynamic background music adjustment based on speech detection
 - Gesture-controlled camera zoom functionality
 - Enhanced engagement through motion-aware interactions
